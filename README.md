@@ -32,4 +32,4 @@
     ```shell
         $ git remote add origin https://github.com/[본인의 github username]/git-test.git
     ```
-5. 이후 본인 분야에 따른 폴더로 이동하여 공통과제 1개와 분야별 과제 1개를 진행해주세요.
+5. 이후 노션 안내에 따라 Test를 진행해주세요.
